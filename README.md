@@ -4,6 +4,10 @@ A cross-platform **Flutter** application for managing a school, built around two
 
 Runs on Android, iOS, Web, and Windows from a single codebase.
 
+<p align="center">
+  <img src="docs/screenshots/hero.png" alt="EduConnect running on a phone" width="600" />
+</p>
+
 ---
 
 ## ✨ Features
@@ -27,6 +31,20 @@ Runs on Android, iOS, Web, and Windows from a single codebase.
 - Role selector landing screen
 - Consistent theming via a Material 3 color scheme (seed `#2563EB`)
 - Reusable UI kit: gradient scaffold, primary buttons, cards, inputs, and a shared color palette
+
+---
+
+## 📸 Screenshots
+
+### Parent Portal
+Dashboard, attendance tracking, homework & notices, and fee status.
+
+![Parent Portal screens](docs/screenshots/parent.png)
+
+### Admin / Teacher Console
+Dashboard with key stats, bulk messaging, and student records.
+
+![Admin console screens](docs/screenshots/admin.png)
 
 ---
 
